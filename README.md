@@ -23,7 +23,7 @@ Authentication takes places using Firebase Authentication service making request
 
 
 
-Products and orders data is stored in the Firebase Realtime Database service
+Products and orders data is stored in the Firebase Realtime Database service.
 ![db](assets/images/db.png)
 
 ___
