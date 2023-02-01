@@ -1,4 +1,4 @@
-# Meals App
+# Shop App
 
 ![app](assets/images/app.gif)
 ![cart](assets/images/cart.jpg)
