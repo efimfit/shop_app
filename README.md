@@ -13,15 +13,13 @@ Flutter 3.3.10 • Dart 2.18.6
 
 `flutter_bloc 8.1.1` library is used for implementing BLoC pattern.
 
-Blocs with network repositories were used for managing the products, cart and orders respectively.
+Blocs with network repositories are used for managing the products, cart and orders respectively.
 
-A bloc with a network repository was used for authentication.
+A bloc with a network repository is used for authentication.
 
 Authentication takes places using Firebase Authentication service making requests via Google Identity Toolkit API.
 
 ![auth](assets/images/auth.png)
-
-
 
 Products and orders data is stored in the Firebase Realtime Database service.
 ![db](assets/images/db.png)
